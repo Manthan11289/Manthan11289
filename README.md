@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manthan Patel</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fgptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx&psig=AOvVaw2QgGl7xzZQ8bN6aIruOSAV&ust=1733476863487000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCF99-mkIoDFQAAAAAdAAAAABAK" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manthan11289&label=Profile%20views&color=0e75b6&style=flat" alt="manthan11289" /> </p>
 
